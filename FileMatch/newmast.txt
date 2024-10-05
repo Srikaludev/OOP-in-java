@@ -1,0 +1,12 @@
+100
+AlanJones
+375.31
+500
+SamSharp
+0.0
+300
+MarySmith
+89.3
+700
+SuzyGreen
+-14.22
